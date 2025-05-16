@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, World! I'm KRISHNA,
 
-<!--
-**KrishnaMohan2808/KrishnaMohan2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics Engineer by degree.
+🧪 Experimenter by nature.
+🤖 Debugging life, one circuit at a time.
 
-Here are some ideas to get you started:
+Welcome to my GitHub —  a fine collection of Verilog and scripts in Python that (usually) work on the first try… after 37 attempts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you’ll find:
+- 🛠️ Projects mixing hardware sparks with software logic
+- 🧠 My first steps into the mysterious land of machine learning
+- 🚀 Occasional attempts to launch things (in code and otherwise)
+
+When I’m not writing code or wiring things up, I’m probably staring at error messages like they personally offended me.
+
+> “If it works, don’t touch it. If it doesn’t, still don’t touch it... yet.”
+
+📫 Reach me at: krishnamohan2808@gmail.com
