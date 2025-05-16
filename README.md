@@ -2,7 +2,7 @@
 
 🎓 Electronics Engineer by degree.  
 🧪 Experimenter by nature.  
-🤖 Debugging life one circuit at a time.
+🤖 Debugging life, one circuit at a time.
 
 Welcome to my GitHub —  a fine collection of Verilog, MATLAB and scripts in Python that (usually) work on the first try… after 37 attempts.
 
