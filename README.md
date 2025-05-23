@@ -11,8 +11,8 @@ Here you’ll find:
 - 🧠 My first steps into the mysterious land of machine learning
 - 🚀 Occasional attempts to launch things (in code and otherwise)
 
-When I’m not writing code or wiring things up, I’m probably staring at error messages like they personally offended me.
 
-> “If it works, don’t touch it. If it doesn’t, still don’t touch it... yet.”
+
+ “If it works, don’t touch it. If it doesn’t, still don’t touch it... yet.”
 
 📫 Reach me at: krishnamohan2808@gmail.com
