@@ -1,4 +1,5 @@
-#  Hello, World! I'm KRISHNA,
+#  Hello World!
+I'm KRISHNA,
 
 🎓 Electronics Engineer by degree.  
 🧪 Experimenter by nature.  
