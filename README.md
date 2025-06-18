@@ -14,6 +14,6 @@ Here you’ll find:
 
 
 
- “If it works, don’t touch it. If it doesn’t, still don’t touch it... yet.”
+ “Attention is all you need.”
 
 📫 Reach me at: krishnamohan2808@gmail.com
